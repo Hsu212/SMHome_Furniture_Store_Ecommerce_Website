@@ -1,4 +1,3 @@
-// src/components/auth/SignIn.tsx
 import React, { useState } from 'react';
 
 const SignIn: React.FC = () => {
@@ -34,5 +33,6 @@ const handleSubmit = (e: React.FormEvent) => {
     </form>
   );
 };
+
 
 export default SignIn;
