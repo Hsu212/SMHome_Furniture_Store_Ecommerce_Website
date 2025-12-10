@@ -1,4 +1,3 @@
-// src/components/auth/SignUp.tsx
 import React, { useState } from 'react';
 
 const SignUp: React.FC = () => {
@@ -46,5 +45,6 @@ const SignUp: React.FC = () => {
     </form>
   );
 };
+
 
 export default SignUp;
